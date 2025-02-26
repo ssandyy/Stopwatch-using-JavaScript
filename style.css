@@ -1,0 +1,18 @@
+.btn-icon{
+    height: 10%;
+    width: 10%;
+}
+
+body{
+    background: rgb(143, 143, 143);
+}
+.stopwatch {
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+    padding: 40px 0;
+    margin: 200px auto 0;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.7);
+    background: radial-gradient(circle, rgba(250,220,16,1) 0%, rgba(9,121,58,1) 35%, rgba(0,212,255,1) 100%);
+    background-size: cover;
+}
